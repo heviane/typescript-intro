@@ -1,0 +1,26 @@
+{
+  "name": "typescript-intro",
+  "version": "1.0.0",
+  "description": "Repository created for learning TypeScript.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heviane/typescript-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heviane/typescript-intro/issues"
+  },
+  "homepage": "https://github.com/heviane/typescript-intro#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
